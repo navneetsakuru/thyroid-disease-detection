@@ -1,0 +1,36 @@
+# Python cache files
+
+**pycache**/
+*.pyc
+*.pyo
+
+# Virtual environment
+
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+
+.ipynb_checkpoints/
+
+# Mac system files
+
+.DS_Store
+
+# Model files (optional if too large)
+
+*.h5
+*.pkl
+*.joblib
+
+# Dataset (IMPORTANT - don’t upload full dataset)
+
+dataset/
+
+# Logs
+
+*.log
+
+# Temporary files
+
+*.tmp
